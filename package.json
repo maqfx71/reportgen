@@ -1,0 +1,14 @@
+{
+  "name": "@maqfx71/reportgen",
+  "version": "1.0.3",
+  "description": "Generate daily/weekly reports from git logs",
+  "bin": {
+    "reportgen": "bin/reportgen.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "simple-git": "^3.24.0",
+    "commander": "^11.0.0",
+    "date-fns": "^2.30.0"
+  }
+}
