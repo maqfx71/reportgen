@@ -1,6 +1,6 @@
 {
   "name": "@maqfx71/reportgen",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generate daily/weekly reports from git logs",
   "bin": {
     "reportgen": "bin/reportgen.js"
